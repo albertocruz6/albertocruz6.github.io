@@ -44,4 +44,6 @@ ul.posts li {
 
 .circular--square {
   border-radius: 50%;
+  width: 333px;
+  height: 187px;
 }

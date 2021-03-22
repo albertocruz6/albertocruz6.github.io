@@ -1,1 +1,27 @@
-
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>{{ page.title }}</title>
+		<!-- link to main stylesheet -->
+		<link rel="stylesheet" type="text/css" href="/css/main.css">
+	</head>
+	<body>
+		<nav>
+    		<ul>
+        		<li><a href="/">Home</a></li>
+	        	<li><a href="/about">About</a></li>
+        		<li><a href="/cv">Resume</a></li>
+        		<li><a href="/website">Website (soon)</a></li>
+    		</ul>
+		</nav>
+		<div class="container">
+    	{{ content }}
+		</div><!-- /.container -->
+		<footer>
+    		<ul>
+        		<li><a href="mailto:alberto.cruz6@upr.com">email</a></li>
+        		<li><a href="https://github.com/albertocruz6">github.com/albertocruz6</a></li>
+			</ul>
+		</footer>
+	</body>
+</html>

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
+title: "Albertico launches site!"
 date: 2020-03-22
 ---
 

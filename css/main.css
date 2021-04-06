@@ -25,24 +25,24 @@ a:hover {
 h1 {
     font-size: 3em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-		color: #fffff3;
+    color: #fffff3;
 }
 p {
     font-size: 1.5em;
     line-height: 1.4em;
-    color: #333;
+    color: #cccccc;
 }
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
-		color: #fffff3;
+    color: #fffff3;
 
 }
 
 ul.posts { 
     margin: 20px auto 40px; 
     font-size: 1.5em;
-		color: #fffff3;
+    color: #fffff3;
 
 }
 
@@ -59,19 +59,19 @@ ul.posts li {
 .h2_about {
     font-size: 2.50em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-		color: #fffff3;
+    color: #fffff3;
 
 }
 
 .li_about {
     font-size: 1.5em;
-	line-height: 1.4em;
-	color: #333;
+    line-height: 1.4em;
+    color: #cccccc;
 }
 
 .dt_dd_about {
     font-size: 1.1em;
     line-height: 1em;
-   	color: #333;
+    color: #cccccc;
 }
 

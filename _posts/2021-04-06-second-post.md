@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Albertico launches site!"
+title: "April Update! Kinda busy..."
 date: 2021-04-06
 ---
  Hey! It takes a lot of time to study for test and design projects for the several enrolled courses so I'm not super active through here o(TヘTo)

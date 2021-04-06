@@ -56,6 +56,11 @@ ul.posts li {
   height: 187px;
 }
 
+
+.circular--square--logo {
+  border-radius: 50%;
+}
+
 .h2_about {
     font-size: 2.50em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -63,12 +68,6 @@ ul.posts li {
 
 }
 
-/* .li_about {
-    font-size: 1.5em;
-    line-height: 1.4em;
-    color: #cccccc;
-}
- */
 .dt_dd_about {
     font-size: 1.1em;
     line-height: 1em;

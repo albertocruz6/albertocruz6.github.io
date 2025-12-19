@@ -1,0 +1,106 @@
+// DO NOT ADD COMMENTS IN THIS FILE.  They will be lost when the Rush tool resaves it.
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/rush/v5/approved-packages.schema.json",
+  "packages": [
+    {
+      "name": "@emotion/react",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "@emotion/styled",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "@eslint/js",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "@mui/icons-material",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "@mui/material",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "@rsbuild/core",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "@rsbuild/plugin-react",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "@rspack/plugin-react-refresh",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "@rstest/core",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "@testing-library/dom",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "@testing-library/jest-dom",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "@testing-library/react",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "eslint",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "eslint-plugin-react-hooks",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "eslint-plugin-react-refresh",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "gh-pages",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "globals",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "jsdom",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "prettier",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "react",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "react-dom",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "react-refresh",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "react-router-dom",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "typescript",
+      "allowedCategories": [ "production" ]
+    },
+    {
+      "name": "typescript-eslint",
+      "allowedCategories": [ "production" ]
+    }
+  ]
+}

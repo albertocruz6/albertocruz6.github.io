@@ -1,13 +1,13 @@
 body {
   margin: 0;
-  color: #fff;
+  color: #d4af37; /* Gold text */
   font-family: Inter, Avenir, Helvetica, Arial, sans-serif;
-  background-image: linear-gradient(to bottom, #020917, #101725);
+  background-color: #000000; /* Pure black background */
 }
 
 .content {
   display: flex;
-  color: #fff;
+  color: #d4af37; /* Gold text */
   min-height: calc(100vh - 64px); /* Subtract AppBar height */
   line-height: 1.1;
   text-align: center;
@@ -21,13 +21,15 @@ body {
   font-weight: 700;
   margin: 0.5rem 0;
   line-height: 1.2;
+  color: #d4af37; /* Gold */
 }
 
 .content p {
   font-size: clamp(1rem, 2.5vw, 1.2rem); /* Responsive font size */
   font-weight: 400;
-  opacity: 0.5;
+  opacity: 0.8;
   margin: 0.5rem 0;
+  color: #b8960c; /* Muted gold */
 }
 
 /* Mobile optimizations */

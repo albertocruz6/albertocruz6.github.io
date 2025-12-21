@@ -1,4 +1,5 @@
 import { Container, Box, Typography } from '@mui/material';
+import AnimatedText from '../components/AnimatedText/AnimatedText';
 
 const Home = () => {
   return (
@@ -13,7 +14,7 @@ const Home = () => {
             lineHeight: 1.2,
           }}
         >
-          ¡Hola!
+          <AnimatedText>¡Hola!</AnimatedText>
           <br />
           Esta página está en construcción.
         </Typography>

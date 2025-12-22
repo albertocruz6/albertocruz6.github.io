@@ -45,6 +45,37 @@ const AboutPage = () => {
         >
           (Acerca de mi)
         </Typography>
+
+        <Box
+          sx={{
+            display: 'flex',
+            justifyContent: 'center',
+            mt: 4,
+          }}
+        >
+          <Box
+            component="img"
+            src="/alberto_image.jpg"
+            alt="Alberto Cruz"
+            sx={{
+              width: { xs: '200px', sm: '250px', md: '300px' },
+              height: { xs: '200px', sm: '250px', md: '300px' },
+              borderRadius: '50%',
+              objectFit: 'cover',
+              boxShadow:
+                '0 0 15px 3px rgba(255, 215, 0, 0.3), 0 0 30px 6px rgba(255, 215, 0, 0.15)',
+              border: '2px solid rgba(255, 215, 0, 0.5)',
+              transition: 'all 0.4s ease-in-out',
+              cursor: 'pointer',
+              '&:hover': {
+                transform: 'scale(1.15)',
+                boxShadow:
+                  '0 0 25px 8px rgba(255, 215, 0, 0.5), 0 0 50px 15px rgba(255, 215, 0, 0.25)',
+                border: '3px solid rgba(255, 215, 0, 0.8)',
+              },
+            }}
+          />
+        </Box>
       </Box>
     </Container>
   );

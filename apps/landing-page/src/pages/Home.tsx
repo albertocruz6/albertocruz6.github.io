@@ -18,6 +18,12 @@ const Home = () => {
           <br />
           Esta página está en construcción.
         </Typography>
+        <Typography
+          variant="body1"
+          sx={{ fontSize: { xs: '0.95rem', sm: '1rem' } }}
+        >
+          (<AnimatedText>Hi!</AnimatedText> This page is under construction.)
+        </Typography>
       </Box>
     </Container>
   );
